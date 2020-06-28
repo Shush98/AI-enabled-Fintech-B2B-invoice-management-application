@@ -1,0 +1,1 @@
+export { setData} from './action'
